@@ -1,6 +1,9 @@
 body{
     background-image: url(home.jpg);
 }
+.overlay{
+    background-color: rgba(0, 0, 0, 0.5);
+}
 h1{
     color: rgb(255, 0, 81);
     padding-top: 120px;
@@ -19,8 +22,6 @@ p{
     font-size: 1em;
     font-weight: 400;
     padding-left: 120px;
-   
-
 }
 .main-btn{
     color: white;
